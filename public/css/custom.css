@@ -1,0 +1,56 @@
+body {
+    background-color: #65167f;
+}
+.c-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.c-flex li {
+    display: inline-block;
+}
+.c-flex li a {
+    color: white;
+    font-size: 3rem;
+    text-decoration: none;
+    padding: 8px 15px;
+}
+.navbar-inverse{
+    background-color: #65167f;
+}
+.c-flex li a:hover {
+    background-color: #fff;
+    color: #65167f;
+    border-radius: 3px;
+}
+.inst li {
+    line-height: 40px;
+    font-size: 1.5rem;
+ 
+}
+form{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+.text-info{
+    font-size: 2rem;
+}
+/* .card{
+    margin-bottom: 32px;
+}
+.card-header{
+    background-color: #fff;
+}
+.card-body{
+background-color: #fff;
+}*/
+
+.container{
+    background-color: #fff;
+    margin-bottom: 20px;
+} 
+.table{
+    /* font-size: 2rem; */
+}
